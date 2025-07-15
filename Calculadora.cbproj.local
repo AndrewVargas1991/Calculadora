@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/07/13 21:05:34.000.311,=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/07/13 21:05:35.000.093,=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/07/13 21:06:12.000.324,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Calculadora\CalculadoraPCH1.h</Transaction>
+    <Transaction>2025/07/13 21:06:12.000.383,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Calculadora\Calculadora.cbproj</Transaction>
+    <Transaction>2025/07/13 21:06:12.000.353,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.h</Transaction>
+    <Transaction>2025/07/13 21:06:12.000.353,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.cpp</Transaction>
+    <Transaction>2025/07/13 21:06:12.000.353,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.dfm</Transaction>
+    <Transaction>2025/07/13 21:06:17.000.057,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.h=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Calculadora\main.h</Transaction>
+    <Transaction>2025/07/13 21:06:17.000.057,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.dfm=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Calculadora\main.dfm</Transaction>
+    <Transaction>2025/07/13 21:06:17.000.057,C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.cpp=C:\Users\Andrew\Documents\Embarcadero\Studio\Projects\Calculadora\main.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
